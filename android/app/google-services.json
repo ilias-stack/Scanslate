@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149999824960",
+    "project_id": "scanslate-9bac4",
+    "storage_bucket": "scanslate-9bac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149999824960:android:cc4ab95816e84f00a4afa5",
+        "android_client_info": {
+          "package_name": "com.example.scan_and_translate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149999824960-1qv72l6hbjssv5o8t3skb739n8v9dk2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAj8fDC529OO6fYkwutZYXExmKDf1AKGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149999824960-1qv72l6hbjssv5o8t3skb739n8v9dk2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
